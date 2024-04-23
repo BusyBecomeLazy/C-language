@@ -1,0 +1,3 @@
+﻿  Esayexercise.c
+D:\C语言\day_4.9\day_4.9\Esayexercise.c(16): warning C4715: “fact”: 不是所有的控件路径都返回值
+  day_4.9.vcxproj -> D:\C语言\day_4.9\x64\Debug\day_4.9.exe
